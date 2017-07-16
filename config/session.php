@@ -135,7 +135,7 @@ return [
     |
     */
 
-    'path' => '/',
+    'path' => 'http://gabrielabdala.com/test-sg/sgiar-audiovisual',
 
     /*
     |--------------------------------------------------------------------------
